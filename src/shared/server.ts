@@ -4,7 +4,7 @@ import Routes from './infra/http/routes';
 import upload from '@config/upload';
 import AppError from './errors/AppError';
 import './infra/typeorm';
-import './container'
+import './container';
 
 const app = express();
 
