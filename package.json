@@ -10,6 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@types/nodemailer": "^6.4.0",
     "@typescript-eslint/parser": "^2.28.0",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
@@ -19,6 +20,7 @@
     "express-async-errors": "^3.1.1",
     "jsonwebtoken": "^8.5.1",
     "multer": "^1.4.2",
+    "nodemailer": "^6.4.6",
     "pg": "^8.0.2",
     "reflect-metadata": "^0.1.13",
     "tsyringe": "^4.2.0",

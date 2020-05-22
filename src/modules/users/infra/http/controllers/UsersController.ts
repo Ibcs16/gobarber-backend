@@ -18,5 +18,4 @@ export default class UsersController {
       return response.status(400).json({ error: err.message });
     }
   }
-
 }
